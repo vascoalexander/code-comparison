@@ -696,39 +696,3 @@ Hinzufügen von Elementen zu einem Wörterbuch. Die Funktion addToDicitonary (el
 >> addToDictionary("Gewicht", 65.3, {})  
 ("Gewicht": 65.3}  
 ```
-
-### 2.4 Stack
-
-### 2.5 Queues
-
-### 2.6 Verknüpfte Listen
-
-
-# Nr. 3 Algorithmen
-
-### 3.1 Sortieren
-
-### 3.2 Suchen
-
-### 3.3 Rekursion
-
-### 3.4 Dynamische Programmierung
-
-### 3.5 Graphenalgorithmen
-
-
-# 4 Fortgeschrittene Themen
-
-### 4.1 Objektorientierte Programmierung (OOP)
-
-### 4.2 Datei-I/O
-
-### 4.3 Behandlung von Ausnahmen
-
-### 4.4 Reguläre Ausdrücke
-
-### 4.5 Datum und Uhrzeit
-
-### 4.6 Unit-Tests
-
-### 4.7 Web Scraping

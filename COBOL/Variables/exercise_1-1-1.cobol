@@ -1,0 +1,13 @@
+       IDENTIFICATION DIVISION. 
+       PROGRAM-ID. EXERCISE-1-1-1.
+
+       DATA DIVISION. 
+       WORKING-STORAGE SECTION. 
+       01 VAR-A PIC 9(1) VALUE 1.
+       01 VAR-B PIC A(6) VALUE "France".
+       01 VAR-C PIC 9(2)V9 VALUE 36.2.
+
+       PROCEDURE DIVISION.
+           DISPLAY "VAR-A: " VAR-A " VAR-B: " VAR-B " VAR-C: " VAR-C.
+           STOP RUN.  
+       

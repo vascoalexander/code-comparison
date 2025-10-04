@@ -693,39 +693,3 @@ Verification:
 >> addToDictionary("Gewicht", 65.3, {})  
 ("Gewicht": 65.3}  
 ```
-
-### 2.4 Stacks
-
-### 2.5 Queues
-
-### 2.6 Linked Lists
-
-
-# 3 Algorithms
-
-### 3.1 Sorting
-
-### 3.2 Searching
-
-### 3.3 Recursion
-
-### 3.4 Dynamic Programming
-
-### 3.5 Graph Algorithms
-
-
-# 4 Advanced Topics
-
-### 4.1 Object-Oriented Programming (OOP)
-
-### 4.2 File I/O
-
-### 4.3 Exception Handling
-
-### 4.4 Regular Expressions
-
-### 4.5 Date and Time
-
-### 4.6 Unit Testing
-
-### 4.7 Web Scraping

@@ -1,0 +1,12 @@
+       IDENTIFICATION DIVISION. 
+       PROGRAM-ID. EXERCISE-1-1-2.
+
+       DATA DIVISION. 
+       WORKING-STORAGE SECTION. 
+       01 DISP-MESSAGE PIC X(15) VALUE "Hello".
+
+       PROCEDURE DIVISION.
+           DISPLAY DISP-MESSAGE(1:5)
+           MOVE "how are you" TO DISP-MESSAGE.
+           DISPLAY DISP-MESSAGE.
+           STOP RUN.

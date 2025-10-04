@@ -1,0 +1,10 @@
+{
+    "go.goroot": "/home/vasco/.local/share/mise/installs/go/1.24.3",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/home/vasco/.local/share/mise/shims/node"
+    },
+    "python.defaultInterpreterPath": "/home/vasco/.local/share/mise/installs/python/3.13.3/bin/python",
+    "go.alternateTools": {
+        "go": "/home/vasco/.local/share/mise/shims/go"
+    }
+}
